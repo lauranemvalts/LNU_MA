@@ -1,7 +1,7 @@
 # Spatial analysis
 
 Spatial analysis is the most complex stage of analysis. The workflow is illustrated in thesis Figure 5:
-<img src="https://github.com/user-attachments/assets/7c15b14c-a21f-41a8-8a5d-7c5aa8714f9f" width="300">
+<img src="https://github.com/user-attachments/assets/7c15b14c-a21f-41a8-8a5d-7c5aa8714f9f" width="500">
 
 The main files and scripts of the spatial analysis folder are:
 <ol>
