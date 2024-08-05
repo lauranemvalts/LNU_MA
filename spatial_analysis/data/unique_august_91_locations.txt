@@ -1,0 +1,879 @@
+V1	count
+eesti	618
+rootsi	225
+tallinn	204
+usa	104
+tartu	98
+moskva	88
+eesti vabariik	82
+stockholm	76
+soome	60
+euroopa	58
+venemaa	53
+leedu	49
+läti	42
+saksamaa	42
+balti riik	40
+baltikum	40
+kanada	37
+new york	31
+pärnu	29
+nõukogu liit	28
+narva	26
+toronto	24
+poola	22
+eskilstuna	20
+vene	20
+ukraina	17
+virumaa	17
+haapsalu	16
+riia	16
+saaremaa	16
+helsingi	15
+taani	15
+uppsala	15
+araal meri	14
+ameerika	13
+göteborg	13
+n liit	13
+stokholmis	13
+leningrad	12
+norra	12
+vilnius	12
+inglismaa	11
+rakvere	11
+hiiumaa	10
+nõukogu	10
+la	9
+läänemeri	9
+norrköping	9
+prantsusmaa	9
+siber	9
+viljandi	9
+washington	9
+gävle	8
+austraalia	7
+kirde-eesti	7
+kuuba	7
+lääs	7
+norilsk	7
+eesti maja	6
+eestimaa	6
+ida-euroopa	6
+itaalia	6
+nliit	6
+rostock	6
+ungari	6
+võru	6
+aasia	5
+afganistan	5
+balti	5
+berliin	5
+puhap	5
+põhjala	5
+vene föderatsioon	5
+võrumaa	5
+ühendriik	5
+	4
+emajõgi	4
+hamburg	4
+imastu	4
+jaapan	4
+jõgeva	4
+karula	4
+kiel	4
+kohtla-järve	4
+rapla	4
+sinimägi	4
+skandinaavia	4
+vaikne ookean	4
+valga	4
+välis-eesti	4
+york	4
+aafrika	3
+alaska	3
+albaania	3
+amudarja	3
+araal	3
+austria	3
+belgia	3
+bering	3
+brasiilia	3
+bulgaaria	3
+eesti kodu	3
+fäär saar	3
+gruusia	3
+harjumaa	3
+hiina	3
+ida-viru maakond	3
+ikla	3
+island	3
+järvamaa	3
+kaspia meri	3
+kopenhaagen	3
+läti ja leedu	3
+läänemeremaa	3
+marshall	3
+montreal	3
+munka-ljungby	3
+nliidus	3
+pai	3
+palmse	3
+pamiir	3
+pariis	3
+pirita	3
+prantsuse	3
+pärnumaa	3
+põhjamaa	3
+ruhnu	3
+sigtuna	3
+sverdlovsk	3
+tallinnat	3
+turu	3
+tšehhoslovakkia	3
+udria	3
+varssavi	3
+viru	3
+vändra	3
+ahvenamaa	2
+akali	2
+alberta	2
+altai	2
+ameerika ühendriik	2
+ara	2
+atlandi ookean	2
+audru	2
+bait riik	2
+bonn	2
+briti	2
+brüssel	2
+castro	2
+dalarna	2
+e maja	2
+eelk eskilstuna	2
+eesti nsv	2
+egiptus	2
+estonia	2
+finland	2
+gotland	2
+h rajamaa	2
+haapsalu laht	2
+hamilton	2
+himaalaja	2
+hispaania	2
+i stockholm	2
+ilt	2
+jevgenia	2
+jugoslaavia	2
+karakum	2
+kesk-aasia	2
+kiiev	2
+kirdeeesti	2
+klarabergsviadukten	2
+koitjärv	2
+kroaatia	2
+kunda	2
+kuramaa	2
+kuressaare	2
+kvibergi	2
+kärdla	2
+lahemaa	2
+lati	2
+lauljate liit	2
+leedu vabariik	2
+leedu-valgevene	2
+london	2
+lund	2
+lääs maakond	2
+lääs-viru	2
+maas	2
+malmö	2
+minneapolis	2
+moskva n liit	2
+ms	2
+norden	2
+norrmalmstorg	2
+norrtälje linn	2
+nsv liit	2
+nxiidu	2
+otepää	2
+pakistan	2
+palamuse	2
+peipsi	2
+peterburi	2
+porkuni	2
+pärassaar	2
+pärsia laht	2
+põhjala riik	2
+põhjalas	2
+põlva	2
+rootsi ja balti riik	2
+rootsi riik	2
+ruhnu saar	2
+rõuge	2
+s	2
+saar	2
+saksa	2
+samarkand	2
+sillamäe	2
+singapur	2
+sonda	2
+stokholmi	2
+sääljuur	2
+tartu linn ja maakond	2
+tartumaa	2
+tokyo	2
+torgu vald	2
+tšehhi	2
+usbekistan	2
+uus-meremaa	2
+vabariik	2
+valgamaa	2
+valgerand	2
+valgevene	2
+valima-eesti	2
+vancouver	2
+vene vabariik	2
+viin	2
+viljandi maakond	2
+visby	2
+võnnu	2
+võru maakond	2
+ängelholm	2
+örebro	2
+šveits	2
+- liit	1
+-duvnäsis	1
+a oras	1
+a rüütel ja e savisaar	1
+aadria meri	1
+aarna	1
+aasia riik	1
+aaspere vald	1
+agtn --mi xuhion	1
+aksi	1
+alas	1
+alirea ard	1
+amudarja -	1
+angoolas	1
+antsla	1
+aongkopgis	1
+araal vabariik	1
+argentiina	1
+arizona osariik	1
+armeenia	1
+austea	1
+avinurme	1
+b	1
+bagdad	1
+baki riik	1
+baldwin-wallace aruja	1
+balkan	1
+balrikiiiri	1
+balti riik ja n liit	1
+balti riik saksav	1
+balti vabariik	1
+baltimaa	1
+balttkami	1
+bamkumi	1
+bangladesh	1
+baüen-powelli	1
+belgrad	1
+belk stokholmi	1
+bering väin	1
+bfitikumi	1
+bikini	1
+boden	1
+bonn balti	1
+boston	1
+bradfort	1
+bržnevi	1
+budapest	1
+buhhaar	1
+bulgaaria i	1
+c a	1
+cambridges	1
+canada	1
+chicago	1
+cl baltiska	1
+co	1
+connecticut	1
+cru vald	1
+cw jjsä	1
+cüevolei	1
+danderyd	1
+daoiovv -u d-i	1
+de	1
+doonau	1
+doonau jõgi	1
+dušanbe	1
+e maja peeter saar	1
+e poolsaar	1
+e v saksa	1
+eaaiis	1
+edgm saar pv	1
+edmonton	1
+edwardp jõgi	1
+eelk göteborg	1
+eergei	1
+eesas	1
+eeshi-läti	1
+eeslis	1
+eeslist	1
+eest i venemaa	1
+eesti aus	1
+eesti f	1
+eesti ja balti	1
+eesti ja balti riik	1
+eesti linn	1
+eesti mereioomuiik	1
+eesti ne	1
+eesti riik	1
+eesti sina-	1
+eesti u	1
+eesti v-t	1
+eesti vaba	1
+eesti vene	1
+eesti-eest-iasec	1
+eesti-inglise	1
+eesti-läti	1
+eesti-rootsi	1
+eesti-vene	1
+eestiia	1
+eesä vabariik	1
+eesüasi	1
+eesüs	1
+eetiimr balti riik	1
+el	1
+ella	1
+emsdetten saksamaa	1
+eomaa	1
+eregu küla	1
+esfinvest ab	1
+esimest korea	1
+etioopia	1
+etjursholm	1
+euroopa linn	1
+europe-i	1
+europel	1
+f liit	1
+fefec	1
+finntunet	1
+florida	1
+freade	1
+fäga-	1
+gardie	1
+ggjas	1
+gor-	1
+grnurlas	1
+gävles	1
+göteborg e komitees	1
+h aasmäe	1
+h kuisk	1
+h li	1
+h saare	1
+haapsalu laht es	1
+haapsalu linna	1
+haiti	1
+hallstavik	1
+halmstadis	1
+halstahammari	1
+harju mk	1
+harju-madis	1
+harriet	1
+heino jõgi	1
+helmes	1
+helsingborg	1
+helsingfors	1
+helsingi-tallinn	1
+helsingör	1
+hempsteadis	1
+hi b	1
+hii-ieri-stalin	1
+hiina k	1
+hiiva	1
+hisnaanios	1
+hitler	1
+hitler orjuseriik	1
+holland	1
+hollywood	1
+hudson jõgi	1
+höganasi	1
+höganäs	1
+i	1
+i lõtina-eesh	1
+icierlifcu	1
+ida	1
+ida-eu-roobas	1
+ida-lääs	1
+ih	1
+iinüditati	1
+iisaku	1
+iisso	1
+illiidncp balti	1
+india	1
+indiana	1
+indiana osariik	1
+indore	1
+ingismaa	1
+inn	1
+instituut	1
+iraak	1
+irama	1
+iranaprueie	1
+iraulu	1
+irkutsk	1
+isar	1
+iseseisev riik	1
+italietsu	1
+iv liit	1
+ivuidas	1
+j horthy	1
+j kaljuvee	1
+j kiimaa l	1
+j mark ja a saareste	1
+j siivet	1
+jaarklaupae-	1
+je f	1
+jenissei jõgi	1
+jersey osariik	1
+jfclxobsonl	1
+jkta	1
+jmimikris	1
+jnorrköoitigi	1
+jurjev	1
+jurmala	1
+järva maakond	1
+jõgeta maakond	1
+jõgeva maakond	1
+jõhv ja kreutzwald tn	1
+k pihel	1
+kaasepalitsa	1
+kabi la	1
+kadrina	1
+kadriorg	1
+kahekümnekroonine vabariik	1
+kalana	1
+kalifomia	1
+kalifomias	1
+kalifornia	1
+kaliningrad	1
+kampuchea	1
+kamtšatka	1
+kanaari saar	1
+kanada ia	1
+kariibi meri	1
+kasahhi	1
+kassari	1
+kasteni	1
+katõnis	1
+katöni	1
+kaukaasia	1
+kavastu küla	1
+keedu	1
+kehra	1
+keila	1
+kell	1
+kesa vabariik	1
+kesk-eesti	1
+kesk-euroopa	1
+keskaasia	1
+kiel laht ja balti meri	1
+kiigipaeval	1
+kiltsi	1
+kiniiueeles	1
+kirde-eesti viima vene	1
+kirgiis ja tadžik	1
+kirgiisia	1
+kirikumäel	1
+kirjastuste liit	1
+kl liit	1
+kliit	1
+klooga	1
+km	1
+kodumaa	1
+kohtla-järv ja narva	1
+kohtla-järve ja sillamäe	1
+kohtla-järve linn	1
+kohtla-järvelt	1
+kolumbia	1
+kolumbia ita	1
+korp-	1
+kose	1
+kose-uuemõis	1
+krasnojarsk	1
+kristiansand	1
+kristus	1
+kuia	1
+kungla	1
+kurgja	1
+kuriilid	1
+kutveidi	1
+kuuuisi	1
+kuveit	1
+käina	1
+kärdla ja kõrgessaar	1
+kärner	1
+kärstna	1
+könlgsiarg	1
+küpros saar	1
+l liit	1
+laadoga	1
+ladina-ameerika	1
+ladina-eesti-vene	1
+laekvere	1
+lael- usa	1
+lahti	1
+laimjala	1
+laiune	1
+lakewood	1
+lakewoodi	1
+lao	1
+latirootsi	1
+lbpttlob	1
+leedu ja n liiöu	1
+leedu s	1
+leetsi	1
+leila	1
+leisi	1
+lettland	1
+li liit	1
+liileste jt	1
+liivimaa	1
+lilleste jt	1
+linlikult	1
+lippmaa	1
+liua	1
+lles	1
+lltsimta	1
+lnu	1
+lok	1
+loksa	1
+loksa l	1
+loots imftüstae	1
+lt-s	1
+ludu	1
+luhamaa	1
+luunja	1
+lähis-ldas	1
+läli ja leedu	1
+läti ja lee	1
+lätsigulda	1
+läänemaa	1
+läänemeri saar	1
+lääs mdsl toronto	1
+lääs riik	1
+lääs-eesti	1
+lääs-ettroobas	1
+lääs-euroopa	1
+lääs-india	1
+lääs-rootsi	1
+lõuna-aafrika	1
+lõuna-eesti	1
+lõuna-korea	1
+lõuna-rootsi	1
+lõunakaare	1
+lübeck	1
+lürism	1
+lüübek	1
+maardu	1
+macys	1
+mainima	1
+maneeshi	1
+mariehamni	1
+mariliina	1
+maroko	1
+marx	1
+mavirumaa	1
+mb	1
+mcarthur	1
+mecklenburg	1
+medininkai linn	1
+meiusetu	1
+meri	1
+mettanfjärden	1
+miami	1
+michigan osariik	1
+midwest	1
+mimka-ljuagby	1
+mina-s	1
+minsk	1
+missejev	1
+moldaavia jt	1
+monsis	1
+moodustama	1
+moskva balti	1
+moskva ja ida-euroopa	1
+moskvap gorbatssida	1
+mt	1
+muhu saar	1
+munas	1
+mustjala vald	1
+mülikool	1
+münchen	1
+n iüdu	1
+n liidu	1
+n liit okupatsioon balti riik	1
+n liit riik	1
+narva jõgi	1
+narva linn	1
+narva vabariik	1
+narva-tallinn	1
+natsi-sak-samaa	1
+new	1
+new york linn	1
+new york osariik	1
+niguliste	1
+niilus	1
+nludu	1
+noarootsi	1
+normandies	1
+norr- laager	1
+norrköping ja eskilstuna	1
+norrmalmstorgetü	1
+norrtäye	1
+noukogu	1
+novgorod	1
+novgorod linn	1
+nsvl	1
+nsvl-usa	1
+nõmm	1
+nõukogu liidul	1
+nõukogu vene	1
+nõukogu venemaa	1
+nõukogu- kreekamaa	1
+nõuogude liit	1
+oaasilinn	1
+ob jõgi	1
+oh karula	1
+ojamaa	1
+oktoohm kis-i	1
+oskarshamn	1
+ottawa	1
+p -ameerika	1
+pacvaltitt	1
+paide	1
+paldiski	1
+paliu	1
+paljakäsi	1
+paradis	1
+paralcpas	1
+parkgatan	1
+pass	1
+petersburg	1
+petrograd	1
+peäkonsulaat	1
+pihkva	1
+pihkva oblast	1
+pihtal	1
+piin linus	1
+piteå	1
+plymouth	1
+polüneesia	1
+prantsiiamaale	1
+pulmallste	1
+punkte	1
+pärnu linn	1
+pärnu linn ja maakond	1
+põ-hja-ameerika	1
+põaja-ameerika	1
+põhi-eesti kesk-eesti ja lõuna-eesti	1
+põhi-korea	1
+põhi-korea f	1
+põhjameri inglismaa	1
+põhjarootsi	1
+põltsamaa	1
+põlva maakond	1
+qfima	1
+r	1
+r ombudo	1
+r paris	1
+rahumäe	1
+rap a maakond	1
+rapla maakond	1
+regiona	1
+reinimaa	1
+ridala	1
+ristna	1
+rohuküla	1
+roo-s	1
+root-	1
+rootsi kuningriik	1
+rootsi lipp	1
+rootsi mažuseettevõtja liit	1
+rootsi moskva	1
+rootsi-soome	1
+rosenbad	1
+råstadis	1
+rönneberga	1
+s maja	1
+saare maakond	1
+sakala	1
+saksamaa po	1
+samboris	1
+sandvikeni	1
+saurerkand	1
+savonlinn	1
+savonllnna	1
+savorlinn	1
+schweiz	1
+schwerin	1
+seadma	1
+semper	1
+sfaveitsi saksa	1
+sfcaa	1
+shveits	1
+sida	1
+sigari ar-ae ä	1
+sijarnkolm	1
+sillamäe o -idremmmn	1
+sim	1
+sirgala	1
+skandinaavia riik	1
+skansen	1
+skaotuk	1
+smolensk	1
+snellmani	1
+sobtšakl ia leningrad	1
+soome laht	1
+soome-eesti	1
+soomeeesti	1
+soonta vald	1
+spångast	1
+staiiis	1
+stalia	1
+stalin-hitler	1
+stalin-hruštäov	1
+steinbockide ja balti ungernsternbergiõe	1
+stockholm eesti	1
+stockholm n liit	1
+stoekholm-tallinn	1
+stokhoimis	1
+stokholfflis	1
+stokholmi ja eskilstuna	1
+stokholmis küla	1
+sudaan	1
+sudburys	1
+suja	1
+suur-serbia	1
+suurantillid saar	1
+suurupis	1
+svul o	1
+sõrdarja	1
+sõrve	1
+taara	1
+tadaeesti vabariik	1
+taebla	1
+tahkuranna	1
+tailmna	1
+talhrra	1
+tali-	1
+tall	1
+tallink	1
+tallinn balti	1
+tallinn laht	1
+tallinn linn	1
+tallinn plaan	1
+tallinn prantsuse	1
+tallinn venemaa	1
+tallinn vi-	1
+tammikus	1
+tampere	1
+tanapaeval	1
+tarrasas	1
+tartu ja tartumaa	1
+tartu maarja	1
+tartu petseri	1
+tarvastu	1
+tasmaania austra as	1
+taškent	1
+tbilisi	1
+tblisi	1
+teatri	1
+teie9eed	1
+tenerifel	1
+texas	1
+thorshavn	1
+tisvaheu	1
+tomingal	1
+tori	1
+trondheim	1
+tsehhoslovakkias	1
+tshehhoslovakkiä	1
+turkmeenia ja karakalpak	1
+tähtvere k	1
+türgi	1
+türi	1
+türisalu	1
+tšehhi ja slovaki	1
+tšehhist	1
+tšehhoslovaldrias	1
+tšiili	1
+u	1
+u c	1
+udria küla	1
+ufa	1
+uga- j la	1
+unga	1
+ungru	1
+upsalas	1
+urama	1
+us	1
+usa eesti	1
+usa iseseisvuspäev	1
+usbek	1
+usm	1
+uural	1
+uvdri	1
+va	1
+vaba-eesti	1
+vahemeri	1
+vaikses ookean	1
+vaiparaisos	1
+vaivara	1
+valga maakond	1
+valgevenemas	1
+valima- eesti	1
+valima-esi fl	1
+vana-andres	1
+vanalinn	1
+vara	1
+varbla	1
+vargamäe	1
+vatikan	1
+veae föderatsioon	1
+vene föderaalne sotsialistlik vabariik	1
+vene föderatuwabariiei	1
+vene keisririik	1
+vfsu	1
+vihjama	1
+vihula vald	1
+viimsi	1
+vilima-	1
+viljan-	1
+viljandi järv	1
+viljandimaa	1
+vilni-	1
+viru-jaagup	1
+vladivostok	1
+vxlis-eesti	1
+väbdras	1
+välis-eestip för	1
+värmland	1
+västeråsi	1
+võru g	1
+võsu ja saaremaa	1
+was k	1
+washingto	1
+waterloos	1
+xliit	1
+y älis-eesii	1
+yanisatsiooit	1
+zemya h	1
+äfillal	1
+õjkoguge	1
+õues	1
+öldis	1
+östenp undeni	1
+üdski	1
+šotimaa	1

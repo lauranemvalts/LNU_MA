@@ -2,9 +2,10 @@
 library(tidyverse)
 
 # Entering output path.
-output_directory <- "enter here output path"
+output_directory <- "C:/GitHub/lnu_ma/spatial_analysis/data"
+setwd("C:/GitHub/lnu_ma/spatial_analysis/data")
 
-# Get a list of files that follow the pattern.
+# Get a list of files that follow the pattern. Although the code is meant for looping a folder of files, it also suits for processing an individual file due to distinct pattern.
 file_list <- list.files(pattern = "_\\d+_locations\\.txt")
 
 # Looping over the files.
