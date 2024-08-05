@@ -18,6 +18,8 @@ collocations <- textstat_collocations(tokens, min_count = 10)
 collocations_filtered <- collocations %>%
   filter(grepl("kodu", collocation)) %>%
   arrange(desc(lambda))
+
+# Displaying the results.
 collocations_filtered
 
 # Creating a DFM.
@@ -27,4 +29,5 @@ dfm.sentences <- dfm(tokens2)
 
 similarity.words <- textstat_simil(dfm.sentences, dfm.sentences[,"kodu"], margin = "features", method = "cosine")
 
+# Displaying the results.
 head(similarity.words[order(similarity.words[,1], decreasing = T),], 11)
