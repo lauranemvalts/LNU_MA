@@ -1,3 +1,8 @@
 # Metadata analysis
 
-The metadata analysis folder consists of an R script and the metadata of the Estonian exile newspapers published in Sweden. The metadata dataset is in TSV file format. In the script, the pages of the exile newspapers are summarised as well as the Figure 3 and 4 of the thesis are generated.
+The metadata analysis folder consists of:
+<ol>
+  <li>Metadata processing R script.</li>
+  <li>Metadata dataset of the Estonian exile newspapers published in Sweden in TSV file format.</li>
+  <li>Two graphs. File <code>newspapers_by_pages.png</code> corresponds to Figure 3 and file <code>newspapers_w_avg.png</code> corresponds to Figure 4 of the thesis.</li>
+</ol>
