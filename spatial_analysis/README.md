@@ -15,7 +15,7 @@ The main files and scripts of the spatial analysis folder are:
   </ol>
   <li>R script <code>extracting_places_in_estonia.R</code> extracts locations within the borders of Estonia based on the most farthest coordinates among cardinal directions. These steps correspond to workflow phase <i>Geocoding</i>.</li>
   <li>R script <code>merging_unique_values_by_decade.R</code> merges the results of newspapers from a specified decade. This is an example of the workflow phase <i>Merging or dividing the data</i>.</li>
-  <li>The last phase of the workflow is carried out in open source platform QGIS. The file created by the script <code>extracting_places_in_estonia.R</code> is uploaded as a Delimited Text Layer. The base map is downloaded from <a href="https://geoportaal.maaamet.ee/eng/spatial-data/administrative-and-settlement-division-p312.html">Estonian Land Board</a> and added as a Vector Layer.</li>
+  <li>The last phase of the workflow is carried out in open source platform QGIS. The file created by the script <code>extracting_places_in_estonia.R</code> is uploaded as a Delimited Text Layer. The base map is downloaded from <a href="https://geoportaal.maaamet.ee/eng/spatial-data/administrative-and-settlement-division-p312.html">Estonian Land Board</a> and added as a Vector Layer. This is the final step of the workflow, i.e <i>Visualising the data with QGIS</i>.</li>
 </ol>
 
 Data folder:
