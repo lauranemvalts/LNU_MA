@@ -1,3 +1,7 @@
+# Determining the output directory and working directory.
+output_directory <- "C:/GitHub/lnu_ma/spatial_analysis/data"
+setwd("C:/GitHub/lnu_ma/spatial_analysis/data")
+
 # Reading the CSV file containing coordinates data.
 coordinates_data <- read.csv("august_91_coordinates.txt")
 
